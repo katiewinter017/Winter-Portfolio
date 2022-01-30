@@ -14,4 +14,4 @@ For this part, I took downloaded the orginal data set used for the above graph, 
 
 Part 3:
 
-<div class="flourish-embed flourish-hierarchy" data-src="visualisation/8559864"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/8560076"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
