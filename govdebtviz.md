@@ -11,3 +11,7 @@ Part 2:
 For this part, I took downloaded the orginal data set used for the above graph, imported it into Flourish, and then created the following visual:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8559765"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Part 3:
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/8559864"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
