@@ -1,6 +1,6 @@
 # Assignment: Visualizing Government Debt
 
-[Link back to the Main Portfolio page](readme.md)
+[Link back to the Main Portfolio page](README.md)
 
 Part 1: 
 
