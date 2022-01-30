@@ -1,6 +1,6 @@
 # Assignment: Visualizing Government Debt
 
-[Link back to the Main Portfolio page](/katiewinter017.github.io/Winter-Portfolio)
+[Link back to the Main Portfolio page](/readme.md)
 
 Part 1: 
 
