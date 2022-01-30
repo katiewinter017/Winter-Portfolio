@@ -12,6 +12,8 @@ After graduation, I plan to work in the creative industy in a management role. W
 
 # Portfolio
 Here is where all of work will go:
+
+[Visualizing Government Debt Assignment](/govdebtviz.md)
 Final Project part 1:
 Final Project part 2: 
 TBD:
