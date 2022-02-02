@@ -10,6 +10,8 @@ In this course, I am hoping to learn more about ways to visualize data and how I
 After graduation, I plan to work in the creative industy in a management role. With my experience in finance and fundraising, I know that a stronger knowledge of data visualization will help me considerably in my future pursuits! 
 
 
+[Test Tableau Assignment Here](/tableau.md)
+
 # Portfolio
 Here is where all of work will go:
 
