@@ -16,7 +16,7 @@ After graduation, I plan to work in the creative industy in a management role. W
 Here is where all of work will go:
 
 ### Assignment 3 & 4
-[Assignment 3 & 4: Critique by Design](/Assignment 3 & 4: Critique by Design.md)
+[Assignment 3 & 4: Critique by Design](/Assignment3&4:CritiquebyDesign.md)
 
 ### Assignment 2
 [Visualizing Government Debt Assignment](/govdebtviz.md)
