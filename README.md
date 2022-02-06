@@ -15,10 +15,13 @@ After graduation, I plan to work in the creative industy in a management role. W
 # Portfolio
 Here is where all of work will go:
 
-[Assignment 3 & 4: Critique by Design](
+### Assignment 3 & 4
+[Assignment 3 & 4: Critique by Design](Assignment 3 & 4: Critique by Design.md)
 
+### Assignment 2
 [Visualizing Government Debt Assignment](/govdebtviz.md)
 
+### Tests
 [Test Tableau Assignment Here](/tableau.md)
 
 Final Project part 1:
