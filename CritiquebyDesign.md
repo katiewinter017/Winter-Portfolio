@@ -3,7 +3,7 @@
 ## Step 1: Chosen Visualization
 
 For this assignment, I found a data visualization from NASA Earth Science in the artice, [Current State of Sea Ice Cover](/https://earth.gsfc.nasa.gov/cryo/data/current-state-sea-ice-cover)
-I also found the related data for this visualization on the site [here](/https://masie_web.apps.nsidc.org/pub/DATASETS/NOAA/G02135/seaice_analysis/) From that list of data, I selected the Sea Ice Index Monthly Data by Year which matched the visualization. 
+I also found the related data for this visualization on the site [here](/https://masie_web.apps.nsidc.org/pub/DATASETS/NOAA/G02135/seaice_analysis/) From that list of data, I selected the Sea Ice Index Monthly Data by Year which matched the visualization. This data shows how over time, both ice extent and the ice area of the Northern and Southern hemispheres are drastically decreasing. The data is brokent up by year and by month, ranging from 1979 to 2021.
 
 ![image](/DataVis.png)
 
@@ -31,7 +31,13 @@ When I first saw the visualization, the aesthetic stood out to me the most. It h
 While this graphic may score lower in some areas, the data shown is very engaging. The visualization is telling a story about how much the ice coverage has decreased over time. This difference is easy to distinguish and see. Thus, the story it tells is engaging and makes the viewer want to learn and understand more. 
 
 ## Step 3: Wireframe
+For the wireframe, I began by addressing each of the above areas and thinking about what things I could change that would make the most impact. In my critique, 2 recommendations I considered (that tie in together) would be to reduce color as the graph has too many colors that make it feel overwhelming and to only focus on the variations in the late summer months. Instead of using the line graph, I would perhaps use a heatmap that only focuses on the variations in the summer months and only uses a variation of one color. 
+When implementing these recommendations - I utilized a heatmap to capture both the yearly and monthly data trends. 
+
+
+
+However, after creating the wireframe, I could personally begin to think of ways to improve it even further.
 
 ## Step 4: Testing the Solution
 
-##Step 5: Solution
+## Step 5: Solution
