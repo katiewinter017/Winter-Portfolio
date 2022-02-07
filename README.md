@@ -13,9 +13,10 @@ After graduation, I plan to work in the creative industy in a management role. W
 
 
 # Portfolio
-Here is where all of work will go:
+This section contains all of my work for the course
 
 ### Assignment 3 & 4
+In this assignment, I critique a data visualization and recreate it.
 [Assignment 3 & 4: Critique by Design](/CritiquebyDesign.md)
 
 ### Assignment 2
@@ -24,6 +25,7 @@ Here is where all of work will go:
 ### Tests
 [Test Tableau Assignment Here](/tableau.md)
 
+Upcoming:
 Final Project part 1:
 Final Project part 2: 
 TBD:
