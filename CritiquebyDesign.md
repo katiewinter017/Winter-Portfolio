@@ -5,7 +5,7 @@
 For this assignment, I found a data visualization from NASA Earth Science in the artice, [Current State of Sea Ice Cover](/https://earth.gsfc.nasa.gov/cryo/data/current-state-sea-ice-cover)
 I also found the related data for this visualization on the site [here](/https://masie_web.apps.nsidc.org/pub/DATASETS/NOAA/G02135/seaice_analysis/) From that list of data, I selected the Sea Ice Index Monthly Data by Year which matched the visualization. 
 
-! [image](/Data Vis.png)
+![image](/assets/images/DataVis.png)
 
 ## Step 2: Critique of the Visualization
 
