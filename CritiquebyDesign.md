@@ -79,7 +79,7 @@ For the final solution, I leveraged all of the thoughts given in the critiques. 
 
 In fact, I did not choose just a line graph, but a line chart filled in - so an area chart. I chose to utilize this as it gives color more meaning. As mentioned in the critique, the dark blue was confusing as white typically means 'empty' or 'none'. Thus, in the area chart, I chose to use a light blue color to correlate with 'ice'. I also think the area chart in a way symbolizes 'ice' and better shows the decrease. 
 
-Additionally, relating to the critique, I used individual years. Instead of the 5 year chunks, the area chart uses each year as a point - more accurately and truthfully showing the changes. 
+Additionally, relating to the critique, I used individual years. Instead of the 5 year chunks, the area chart uses each year as a point - more accurately and truthfully showing the changes. The axis labels are however in 5 so it does not feel overwhelming. Additionally, I chose a title that was more descript, limiting to only one month and mentioning the area that is focused on. 
 
 The final solution:
 
