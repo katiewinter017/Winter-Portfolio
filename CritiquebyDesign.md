@@ -1,5 +1,7 @@
 # Assignment 3 & 4: Critique by Design
 
+[Link back to the Main Portfolio page](README.md)
+
 ## Step 1: Chosen Visualization
 
 For this assignment, I found a data visualization from NASA Earth Science in the artice, [Current State of Sea Ice Cover](/https://earth.gsfc.nasa.gov/cryo/data/current-state-sea-ice-cover)
@@ -35,8 +37,12 @@ While this graphic may score lower in some areas, the data shown is very engagin
 For the wireframe, I began by addressing each of the above areas and thinking about what things I could change that would make the most impact. In my critique, 2 recommendations I considered (that tie in together) would be to reduce color as the graph has too many colors that make it feel overwhelming and to only focus on the variations in the late summer months. Instead of using the line graph, I would perhaps use a heatmap that only focuses on the variations in the summer months and only uses a variation of one color. 
 When implementing these recommendations - I utilized a heatmap to capture both the yearly and monthly data trends. 
 
+![image](/Wire1.png)
 
-Note: The small, and very quick, sketch of a line graph was added to the visualization during the class critique.
+![image](/Wire2.png)
+
+The first images show my intital thought of the heat map. I realized however I did not like the idea of utilzing 4 different colors that would indicate the numbers. I wanted a gradiant that would show the gradual change. I then created the second one to show that change. 
+
 
 However, even after creating the wireframe, I could personally begin to think of ways to improve it even further. These ideas were confirmed and built upon in testing the solution.
 
