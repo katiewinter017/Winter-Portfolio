@@ -3,7 +3,7 @@
 ## Step 1: Chosen Visualization
 
 For this assignment, I found a data visualization from NASA Earth Science in the artice, [Current State of Sea Ice Cover](/https://earth.gsfc.nasa.gov/cryo/data/current-state-sea-ice-cover)
-I also found the related data for this visualization on the site [here](/https://masie_web.apps.nsidc.org/pub/DATASETS/NOAA/G02135/seaice_analysis/) From that list of data, I selected the Sea Ice Index Monthly Data by Year which matched the visualization. This data shows how over time, both ice extent and the ice area of the Northern and Southern hemispheres are drastically decreasing. The data is brokent up by year and by month, ranging from 1979 to 2021.
+I also found the related data for this visualization on the site [here](/https://masie_web.apps.nsidc.org/pub/DATASETS/NOAA/G02135/seaice_analysis/) From that list of data, I selected the Sea Ice Index Monthly Data by Year which matched the visualization. This data shows how over time, both ice extent and the ice area of the Northern and Southern hemispheres are drastically decreasing. The data is brokent up by year and by month, ranging from 1979 to 2021. I chose this visualization because it addresses such a serious topic to viewers on how the arctic ice is declining rapidly, yet it feels a bit overwhleming and confusing. From my initial viewing of it, I started thinking of ways it could be improved.
 
 ![image](/DataVis.png)
 
@@ -35,9 +35,29 @@ For the wireframe, I began by addressing each of the above areas and thinking ab
 When implementing these recommendations - I utilized a heatmap to capture both the yearly and monthly data trends. 
 
 
+Note: The small, and very quick, sketch of a line graph was added to the visualization during the class critique.
 
-However, after creating the wireframe, I could personally begin to think of ways to improve it even further.
+However, even after creating the wireframe, I could personally begin to think of ways to improve it even further. These ideas were confirmed and built upon in testing the solution.
 
 ## Step 4: Testing the Solution
+
+To test the solution, I got the visualization critiqued by two different people. I chose two people with varying backgrounds to get different perspectives. 
+
+Person 1: 24 years old, profession: Human Resources
+Person 2: 53 years old, profession: Chemist
+
+I asked both individuals the following questions:
+
+What is your eye drawn to first?
+What is the graph showing?
+How long did it take you to figure that out?
+Is all of the information useful to know?
+What do you like/dislike about the visual?
+
+
+The critique was extremely valuable in not only validating some of my initial concerns 
+
+Additionally, while not part of the critique with the two individuals above, the class critique additionally helped significantly in testing my solution. During this conversation I mentioned that after my critique with the 2 individuals I was considering a line graph. Both students in my group agreed that the visualization should be simplified and that a line graph would better suit the audience. 
+
 
 ## Step 5: Solution
