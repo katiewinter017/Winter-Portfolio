@@ -8,6 +8,7 @@ I also found the related data for this visualization on the site [here](/https:/
 ![image](/DataVis.png)
 
 ## Step 2: Critique of the Visualization
+For the critique, I utilized Stephen Few's Data Visualization Effectiveness Profile and evaluated the visualization per each of Few's 7 listed criteria. They are ranked from 1-10, 1 being the worst, 10 being the best. The rankings and rationale for the 7 criteria are as follows:
 
 #### Usefulness: 7
 The information in the graph (showing the decrease in arctic ice coverage) is extremeley important information. Overall, the graph does do a good job showing how overtime the ice coverage has decresased significanty. However, regarding usefulness, while for a more expert audience both graphs may show different, valuable information, to a beginner audience, both graphs feel redundant. The article appeals to a more intro audience. Thus, I do no believe both are useful here. Also, I think that it is not necessary to have the full year - rather your eye focuses on the gap that can be seen in the late summer months. In recreating this, I may only focus on that difference. 
@@ -61,3 +62,17 @@ Additionally, while not part of the critique with the two individuals above, the
 
 
 ## Step 5: Solution
+
+For the final solution, I leveraged all of the thoughts given in the critiques. Most important of a change was the overall emphasis on the audience. Because the topic is so serious in nature, the data should be easy to read. As discussed in the critique, because climate change is so weaponized, the visualization should be as straightforward as possible. Thus, I chose to move away from the heatmap and move towards a graph that is more widely understood and readable - a line graph. 
+
+In fact, I did not choose just a line graph, but a line chart filled in - so an area chart. I chose to utilize this as it gives color more meaning. As mentioned in the critique, the dark blue was confusing as white typically means 'empty' or 'none'. Thus, in the area chart, I chose to use a light blue color to correlate with 'ice'. I also think the area chart in a way symbolizes 'ice' and better shows the decrease. 
+
+Additionally, relating to the critique, I used individual years. Instead of the 5 year chunks, the area chart uses each year as a point - more accurately and truthfully showing the changes. 
+
+The final solution:
+
+
+I truly believe this visualization better suits the information. It is easier to read, tells a very clear story, and does not require any background knowledge on the topic. When I first started this process, I immediately thought I would know how to best represent the data. However, as soon as I started wire framing my test solution, I knew that I would need to reevaluate. The critique provided very useful perspectives and new ideas on how to better tell the story. Differing thoughts gave me better insight into thinking about my audience, the color choice, the impact of the graph, and the story it tells.
+
+
+
