@@ -85,7 +85,7 @@ The final solution:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/8634121"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I truly believe this visualization better suits the information. It is easier to read, tells a very clear story, and does not require any background knowledge on the topic. When I first started this process, I immediately thought I would know how to best represent the data. However, as soon as I started wire framing my test solution, I knew that I would need to reevaluate. The critique provided very useful perspectives and new ideas on how to better tell the story. Differing thoughts gave me better insight into thinking about my audience, the color choice, the impact of the graph, and the story it tells.
+I truly believe this visualization better suits the information. It is easier to read, tells a very clear story, and does not require any background knowledge on the topic. When I first started this process, I immediately thought I would know how to best represent the data. However, as soon as I started wire framing my test solution, I knew that I would need to reevaluate. The critique provided very useful perspectives and new ideas on how to better tell the story. Differing thoughts gave me better insight into thinking about my audience, the color choice, the impact of the graph, and the story it tells. 
 
 
 
