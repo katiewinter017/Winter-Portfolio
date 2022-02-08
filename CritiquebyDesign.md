@@ -55,6 +55,8 @@ How long did it take you to figure that out?
 Is all of the information useful to know?
 What do you like/dislike about the visual?
 
+Regarding the answers, there were areas of similarities and differences. Both individuals agreed that there eyes were going back and forth between light and dark and that it was a bit hard to distinguish between colors. Individual #2 also mentioned how he believed that the white would mean emptiness and should not represent a higher number. Both agreed it was about the amount of ice declining (given through the title). While individual #2 said he understood what the graph was showing in about 20 seconds, individual #1 mentioned it took about a minute. Both agreed that there felt like there was too much information was given. In fact, individual 2 mentioned how they believed for such a serious topic, the graph should not be as complex. They mentioned how most individuals hear about climate change so the graph should be able to be viewed by most individuals (unless it was meant for industry professsionals). Both were also confused as to why only certain months were shown and others left out. Individual #1 did not like how the years started from 1970 at the top and went down. They thought it should be flipped so the years increased going up. 
+
 
 The critique was extremely valuable in not only validating some of my initial concerns 
 
