@@ -25,7 +25,9 @@ In this assignment, I critique a data visualization and recreate it.
 ### Tests
 [Test Tableau Assignment Here](/tableau.md)
 
-Upcoming:
-Final Project part 1:
-Final Project part 2: 
-TBD:
+
+### Final Project part 1:
+The start of my final project can be found here: [Final Project](/finalprojectkatiewinter.md)
+
+Upcoming: Final Project part 2: 
+
