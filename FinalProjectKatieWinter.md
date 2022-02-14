@@ -25,7 +25,11 @@ Some of the initial sketches reflecting the above draft outline are shown below.
 
 ![Set up image](/setup.png)
 
+![Conflict image](/conflict.png)
 
+![Resolution image](/resolution.png)
+
+After doing these sketches, I realized I want more green throughout. I believe green will work well with money imagery. Additionally, I want to try to make the cash stacks (in the conflict) visualization work, and am thinking I may need to use photoshop for that. Otherwise, I think doing the sketches set me up to start thinking about how I can work with the data to tell the story I want. 
 
 ## The Data
 
