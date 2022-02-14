@@ -23,6 +23,7 @@ Resolution: Arts managers need to better allocate money, workers need to continu
 
 Some of the initial sketches reflecting the above draft outline are shown below. While these are inaccurate and not based on data, they show what sorts of data visualizations I am thinking of using for the data and story:
 
+![Set up image](/setup.png)
 
 
 
