@@ -11,8 +11,11 @@ Because executives in the arts industy make uncomparable wages to their employee
 I want the reader (my fellow colleages in the arts world) to understand the disparities that exist and how severe/urgent they are so they can better allocate wages and negotiate for their own wages in their careers in the arts. 
 
 Project Structure: 
+
 Set up: Museum operating budgets are growing, as are salaries (showing increases in operating budgets, and trends in increases in exec pay and bonuses)
+
 Conflict: While museum budgets and exec salaries grow, arts workers stagnant salaries are uncomparable. (comparing the very low worker salaries with exec salaries, analyzing how many years of experience/degrees still lead to low wages, etc)
+
 Resolution: Arts managers need to better allocate money, workers need to continue to negotiate (showing raises compared to exec bonuses, etc)
 
 
