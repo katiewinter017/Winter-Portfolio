@@ -1,4 +1,4 @@
-Link back to main Porfolio:
+Link back to main Portfolio:
 [Link back to the Main Portfolio page](README.md)
 
 # Part 1
