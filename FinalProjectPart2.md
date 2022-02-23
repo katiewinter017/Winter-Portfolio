@@ -47,8 +47,10 @@ Interview 3: Male, late 20's, part of cohort, 8-10 years arts experience
 
 | Interview Script Questions | Feedback/Findings | Changes to make to address this |
 | --- | --- | --- |
-| What did you like? | 3: Great design overall, Great pictures,1st | |
-| What worked well? | 3: Graph: Works well horizontal, Graphs are simple enough to understand for all audiences. |   |
+| What did you like? | 1: I really liked the chart that showed that Art Museums do just as good as healthcare, if not better. That statistic is completely unexpected. I felt overall the infographic did a great job at highlighting salary disparity in the art world and I really enjoyed the charts used throughout the project.
+
+3: Great design overall, Great pictures | |
+| What worked well? | 3: 1st Graph: Works well horizontal, Graphs are simple enough to understand for all audiences. |   |
 | What did not work well/was confusing? | 3: The first graph: The Carnegie Museum is significantly less than the rest and is not "Just as Good" as the title suggests. The second graph: I don't know what "Incomparable to One Self-Reported Income" means. Final Graph: Pop-Up boxes are not filled out. |   |
 | What would you change? | 3: The things I listed above. |   |
 | Did you find the story and data compelling? | 3: This paints a great picture and I can easily follow the data. I think the story shifts well from salary gaps to livable wages. I clearly see your setup, conflict, and resolution. |   |
