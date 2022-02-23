@@ -12,6 +12,10 @@ For my wireframes and storyboards, I decided to lay out my story in Shorthand. C
 
 Some key information still needs to be added to boost the over all story. Over the next week, in addition to making the changes from user interviews, I am going to work on actually turning the outlined story board into a full narative that is cited! However, outlining each section and adding key stats allowed me to better see what other information I could look for to boost certain areas. 
 
+Needs: I still need to turn all of this into a strong narrative section that compliments the visualizations and provides some context. I also need to make sure all of my data is cited and that the images and color scheme work well together. 
+
+Oppportunities: I have my data sources and statistics found that I want to use. I also feel like I made good progress on actually creating my visualizations in Flourish. I am looking forward to being able to incorporate the following user critique and strenthen my story. 
+
 Overall, the narrative follows the following format: (I've inlcuded details on the sources I am using throughout these sections as my reserach is mostly done, I just need to turn the outline into a narrative).
 
 Initial Statement: The Arts World Has a Money Issue.  The initial statement does not immediatley address pay as I am setting up my story to show the success of the arts world. I do not immediately want to throw out the purpose of the story as I want it to have a stronger impact as users read through. 
@@ -26,9 +30,6 @@ I then included a small section where I am talking about why this pay issue is s
 
 Call to Action: The call to action prompts the target audience to look at ways they can begin to address these pay issues in the industry themselves. The bullets range in most difficult to least difficult so the last thing the audience reads is something very tangible that they can do.
 
-Needs: I still need to turn all of this into a strong narrative section that compliments the visualizations and provides some context. I also need to make sure all of my data is cited and that the images and color scheme work well together. 
-
-Oppportunities: I have my data sources and statistics found that I want to use. I also feel like I made good progress on actually creating my visualizations in Flourish. I am looking forward to being able to incorporate the following user critique and strenthen my story. 
 
 ## User Research and Interviews
 
@@ -46,12 +47,11 @@ Interview 3: Male, late 20's, part of cohort, 8-10 years arts experience
 
 | Interview Script Questions | Feedback/Findings | Changes to make to address this |
 | --- | --- | --- |
-| What did you like? | 1st Graph: Works well horizontal, Great design overall, Great pictures, Graphs are simple enough to understand for all audiences.| |
-| What worked well? | Show file differences that haven't been staged |   |
-| What did not work well? | Show file differences that haven't been staged |   |
-| Was anything confusing? | Show file differences that haven't been staged |   |
-| What would you change? | Show file differences that haven't been staged |   |
-| Did you find the story and data compelling? | Show file differences that haven't been staged |   |
+| What did you like? | 3: Great design overall, Great pictures,1st | |
+| What worked well? | 3: Graph: Works well horizontal, Graphs are simple enough to understand for all audiences. |   |
+| What did not work well/was confusing? | 3: The first graph: The Carnegie Museum is significantly less than the rest and is not "Just as Good" as the title suggests. The second graph: I don't know what "Incomparable to One Self-Reported Income" means. Final Graph: Pop-Up boxes are not filled out. |   |
+| What would you change? | 3: The things I listed above. |   |
+| Did you find the story and data compelling? | 3: This paints a great picture and I can easily follow the data. I think the story shifts well from salary gaps to livable wages. I clearly see your setup, conflict, and resolution. |   |
 
 Thus, moving forward, I plan to implement all of the listed changes above to clear up my story and data. I beleive all of these changes will not only make the story clearer, but strengthen my statement. In addition to making these changes, I will be working on turning the outline into a cited narrative and ensuring their is a consistent color scheme throughouth. 
 
