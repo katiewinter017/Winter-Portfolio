@@ -26,6 +26,10 @@ I then included a small section where I am talking about why this pay issue is s
 
 Call to Action: The call to action prompts the target audience to look at ways they can begin to address these pay issues in the industry themselves. The bullets range in most difficult to least difficult so the last thing the audience reads is something very tangible that they can do.
 
+Needs: I still need to turn all of this into a strong narrative section that compliments the visualizations and provides some context. I also need to make sure all of my data is cited and that the images and color scheme work well together. 
+
+Oppportunities: I have my data sources and statistics found that I want to use. I also feel like I made good progress on actually creating my visualizations in Flourish. I am looking forward to being able to incorporate the following user critique and strenthen my story. 
+
 ## User Research and Interviews
 
 Target Audience: 
@@ -42,7 +46,7 @@ Interview 3: Male, late 20's, part of cohort, 8-10 years arts experience
 
 | Interview Script Questions | Feedback/Findings | Changes to make to address this |
 | --- | --- | --- |
-| What did you like? | List all new or modified files | |
+| What did you like? | 1st Graph: Works well horizontal, Great design overall, Great pictures, Graphs are simple enough to understand for all audiences.| |
 | What worked well? | Show file differences that haven't been staged |   |
 | What did not work well? | Show file differences that haven't been staged |   |
 | Was anything confusing? | Show file differences that haven't been staged |   |
