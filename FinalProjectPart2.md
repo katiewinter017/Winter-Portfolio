@@ -4,15 +4,27 @@
 
 # Part II
 
+The following section dives into the second part of the final project, where I turn my hand-drawn sketches info full wireframs with actual data, storyboard out the different sections and how I want the sections to flow, and outline my story with my sources to begin writing the narrative. For this part, I additionally interviewed 3 individuals to crititique the storyboard and wireframes so I can strengthen them for the final project. 
+
 ## Wireframes and Storyboards 
 
 For my wireframes and storyboards, I decided to lay out my story in Shorthand. Check out my wireframes and storyboard [here](https://preview.shorthand.com/lqXf2Erjw745Kduc)
 
-Some key information still needs to be added to boost the over all story. Over the next week, in addition to making the changes from user interviews, I am going to work on actually turning the outlined story board into a full narative that is cited! However, outlining each section and adding key stats allowed me to better see what other informaiton I could look for to boost certain areas. 
+Some key information still needs to be added to boost the over all story. Over the next week, in addition to making the changes from user interviews, I am going to work on actually turning the outlined story board into a full narative that is cited! However, outlining each section and adding key stats allowed me to better see what other information I could look for to boost certain areas. 
 
-Overall, the narrative follows the following format:
+Overall, the narrative follows the following format: (I've inlcuded details on the sources I am using throughout these sections as my reserach is mostly done, I just need to turn the outline into a narrative).
+
+Initial Statement: The Arts World Has a Money Issue.  The initial statement does not immediatley address pay as I am setting up my story to show the success of the arts world. I do not immediately want to throw out the purpose of the story as I want it to have a stronger impact as users read through. 
+
+Setup: I am setting up the story by comparing the arts industry to Highmark Health. I chose this organization because of its prominence in Pitssburgh. Most of the target audience will be familiar with the size of the organization. The narrative section here will have data on revenues used from [Guidestar](https://www.guidestar.org/search). I am also pulling key statistics on the economic contributions and size of the arts/museum industry from [Statista](https://www.statista.com/topics/1509/museums/#topicHeader__wrapper). I will also include a one sentence explanation of Highmark Health so the comparison makes sense to readesr.
+
+Conflict: In this section, I outline all of the severe pay inequalities at organizations. I start nationally to paint a picture of these cases at some of the largest organizations. I then go more locally to Pittsburgh to show this is not jsut a unique instance. For the data, I chose to profile individual jobs from the Arts + All Museums Transparency 2019 Report](https://docs.google.com/spreadsheets/d/14_cn3afoas7NhKvHWaFKqQGkaZS5rvL6DFxzGqXQa6o/edit#gid=0), which is my main data source for the project. This whole section starts with a block of text where I overview this report and what it is, and why I am choosing to pull out individual cases instead of looking at the trends (because the top salaries skew average trends and do not recognize how bad the lowest salaries are). I chose to use a profile card approach to show that these are not intern postitions paying so poorly, but rather legitimate admin jobs that require advanced degrees and years of experience. Information is bolstered with top salary and organization data from [Guidestar](https://www.guidestar.org/search).
+
+From there, my story segways into a section comparing these wages to the liveable wage in Pittsburgh from [MIT's Living Wage Calculator](https://livingwage.mit.edu/metros/38300).
+I then included a small section where I am talking about why this pay issue is so bad - I think at this point viewers may be frustrated but not convinced why this is so bad. In this section I am going to explain how this leads to significant issues of the fact that theses jobs are not liveable and limits who can work in these positions.
 
 
+Call to Action: The call to action prompts the target audience to look at ways they can begin to address these pay issues in the industry themselves. The bullets range in most difficult to least difficult so the last thing the audience reads is something very tangible that they can do.
 
 ## User research and interviews
 
@@ -30,10 +42,14 @@ Interview 3: Male, late 20's, part of cohort, 8-10 years arts experience
 
 | Interview Script Questions | Feedback/Findings | Changes to make to address this |
 | --- | --- | --- |
-| git status | List all new or modified files | |
-| git diff | Show file differences that haven't been staged |   |
+| What did you like? | List all new or modified files | |
+| What worked well? | Show file differences that haven't been staged |   |
+| What did not work well? | Show file differences that haven't been staged |   |
+| Was anything confusing? | Show file differences that haven't been staged |   |
+| What would you change? | Show file differences that haven't been staged |   |
+| Did you find the story and data compelling? | Show file differences that haven't been staged |   |
 
-c. your interview script; 
-d. the findings from your interviews; and 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
+Thus, moving forward, I plan to implement all of the listed changes above to clear up my story and data. I beleive all of these changes will not only make the story clearer, but strengthen my statement. In addition to making these changes, I will be working on turning the outline into a cited narrative and ensuring their is a consistent color scheme throughouth. 
+
+
 
