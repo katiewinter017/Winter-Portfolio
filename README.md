@@ -29,5 +29,5 @@ In this assignment, I critique a data visualization and recreate it.
 ### Final Project part 1:
 The start of my final project can be found here: [Final Project](/FinalProjectKatieWinter.md)
 
-The second part of my final proejct can be found here: [Final Project part 2](?FinalProjectPart2.md)
+The second part of my final proejct can be found here: [Final Project part 2](/FinalProjectPart2.md)
 
