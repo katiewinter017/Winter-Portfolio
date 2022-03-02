@@ -7,7 +7,15 @@
 Over view of work done this far - 'behind the scenes look at how work was created for part three'
 Overall, this project has changed significantly from the start. It is interesting to jump back to [Part 1](KatieWinterFinalProject.md) and see how the sketches turned into actual data visualizations. Looking back from Part I to now, my ideas have changed based on the data available, feedback, and my audience. 
 
-In Part II, I built out draft visualizations 
+A look at one of my sketches from Part I:
+
+
+
+
+What that became in Part III:
+
+
+In Part II, I built out these sketches into draft visualizations, using Flourish, visualize data.  I utilized data from the Arts  spreadsheet to pinpoint variances in executive pay to worker pay and individually projile individual instances of inequitable wages. 
 
 ## Changes Made Since Part II 
 
