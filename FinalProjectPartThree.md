@@ -3,6 +3,7 @@
 [Link back to Part II of this Project](FinalProjectPart2.md)
 
 # Final Project Part III
+A look at the 'behind the scenes' of creating Part III
 
 Over view of work done this far - 'behind the scenes look at how work was created for part three'
 Overall, this project has changed significantly from the start. It is interesting to jump back to [Part 1](KatieWinterFinalProject.md) and see how the sketches turned into actual data visualizations. Looking back from Part I to now, my ideas have changed based on the data available, feedback, and my audience. 
@@ -15,11 +16,19 @@ A look at one of my sketches from Part I:
 What that became in Part III:
 
 
-In Part II, I built out these sketches into draft visualizations, using Flourish, visualize data.  I utilized data from the Arts  spreadsheet to pinpoint variances in executive pay to worker pay and individually projile individual instances of inequitable wages. 
+In Part II, I built out these sketches into draft visualizations, using Flourish to visualize data.  I utilized data from the Arts + All Museums Salary Transparency 2019 spreadsheet to pinpoint variances in executive pay to worker pay and individually projile individual instances of inequitable wages. 
+
+In Part III, I started turning my outlined story board into a narrative, diving deeper into turning my ideas and data into a story. 
+
 
 ## Changes Made Since Part II 
 
 ### Interview Feedback
+The interview feedback was extremely useful in making concise changes that may have caused confusion. In my interview I asked the questions "What did not work well/was confusing?" and "What would you change?". The following chart lists the interviewees answers to these questions, as well as the changes I made responding to each feedback point. 
+
+| Feedback | Changes Made |
+| --- | --- |
+|  |  |
 
 ## The Audience for the Story
 who the intended audience is - what changes were made with them in mind
