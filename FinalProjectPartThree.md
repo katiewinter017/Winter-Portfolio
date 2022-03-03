@@ -5,12 +5,9 @@
 # Final Project Part III
 A look at the 'behind the scenes' of creating Part III:
 
-Over view of work done this far - 'behind the scenes look at how work was created for part three'
 Overall, this project has changed significantly from the start. It is interesting to jump back to [Part 1](KatieWinterFinalProject.md) and see how the sketches turned into actual data visualizations. Looking back from Part I to now, my ideas have changed based on the data available, feedback, and my audience. 
 
 A look at one of my sketches from Part I:
-
-
 
 
 What that became in Part III:
@@ -18,12 +15,15 @@ What that became in Part III:
 
 In Part II, I built out these sketches into draft visualizations, using Flourish to visualize data.  I utilized data from the Arts + All Museums Salary Transparency 2019 spreadsheet to pinpoint variances in executive pay to worker pay and individually profile individual instances of inequitable wages. 
 
-In Part III, I started turning my outlined story board into a narrative, diving deeper into turning my ideas and data into a story. 
-
+In Part III, I started turning my outlined story board into a narrative, diving deeper into turning my ideas and data into a story. This section of my portfolio dives into the changes I made, my audiene, design choices, as well as offers my final project to be viewed and lists the references I used. 
 
 ## Changes Made Since Part II 
 
-Since Part II, the majority of 
+Since Part II, the majority of of changes made was adding more context and research. In Part II, my project was mainly outlined, with no story to connect the visualizations. Thus, in this part, I expanded my research, leveraging other statistics about the issue to build out a story. I also added additional images throughout the story, making sure the images worked to complement the visualizations and story and not distract. Similary, I made sure the story had similar colors throughout. I tweaked small details, like making titles more descript, citing my images, and linking sources throughout.
+
+A larger change included adding another visualization. Towards my last section I had a visualization that showed wages compared to the livable wage for 1 adult with no kids in Allegheny County. However, I made mention of the livable wage for 1 adult with 1 kid. Thus, I felt it would be strong to also show the visualization of that comparison. I believe that this viusalization helped my story and added another element of thinking how these positions are unable to support a family. 
+
+More of my changes are detailed below:
 
 ### Interview Feedback
 The interview feedback was extremely useful in making concise changes that may have caused confusion. In my interview I asked the questions "What did not work well/was confusing?" and "What would you change?". The following chart lists the interviewees answers to these questions, as well as the changes I made responding to each feedback point. 
@@ -39,12 +39,16 @@ The interview feedback was extremely useful in making concise changes that may h
 ## The Audience for the Story
 who the intended audience is - what changes were made with them in mind
 My audience for the project is my fellow cohort - other Master of Arts Management students. I specifically wanted this project to be an opportunity for them to explore this issue deeper. It's a known issue in the field how large the pay disparity is between executives and workers. This story builds upon this known issue by giving it specific data to understand just what those disparities are. 
+
 When making changes to my project, some changes were made specifically to tailor the project to my audience. One of those specific changes was building out the call to action. I made sure to give three actionable items that the audience could do at any point in their career. For example, I urged the audience to advocate for employees under them, negotiate for their own pay, and talk about their pay. I wanted to make sure the call was versatile enough that it gave audience members specific things to do that could fit their situation.
+
 Additionally, I also chose to build out the 'privilege' section I had to be "The Larger Inequality". The audience (my cohort) is well versed on the massive issue of representation in the industry. Thus, I felt that it would be stronger to connect to that. 
 The last change I made with my audience in mind was 
 
 ## Key Design Decisions
-Throughout the process, I wanted to make sure my design stayed clean and readable. In order to do this, I kept a simple, using white text on darker backgrounds and dark text on light backgrounds. Regarding color, I chose to utilize black and white with hints of green and orange throughout. I chose black and white to maintain a clean and bold design. I additionally chose green to connect with the overall theme of money. I then chose orange as an emphasis color as it contrasts nicely with green. I utilized the organe to emphasize certain elements in my visualizations and point the audience's eyes there first. 
+Throughout the process, I wanted to make sure my design stayed clean and readable. In order to do this, I kept a simple, using white text on darker backgrounds and dark text on light backgrounds. Regarding color, I chose to utilize black and white with hints of green and orange throughout. I chose black and white to maintain a clean and bold design. I additionally chose green to connect with the overall theme of money. I then chose orange as an emphasis color as it contrasts nicely with green. I utilized the oragne to emphasize certain elements in my visualizations and point the audience's eyes there first. 
+
+I additionally chose to use 'profiles' to show individual instances of pay. I made sure the profiles used clean and readable fonts and colors, and utilized the orange color as an emphasis that was consistent throughout my story. I mixed these profiles into other data visualizations and images throughout the story to add some variation in visualizations and keep the story feeling engaging throughout. 
 
 # The Final Data Story
 
