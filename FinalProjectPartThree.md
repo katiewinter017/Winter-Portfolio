@@ -68,6 +68,16 @@ View the final data story here: [The Arts World has a Money Issue](https://carne
 
 “Glassdoor Job Search.” Glassdoor. Accessed March 2, 2022. https://www.glassdoor.com/member/home/index.htm.
 
+Internal Revenue Service, Carnegie Institute Form 990 § (2018). https://pdf.guidestar.org/PDF_Images/2018/250/965/2018-250965280-17024118-9.pdf?_gl=1*16rl14w*_ga*Nzg3Mjc5NzA1LjE2NDQ1MjE5MTg.*_ga_5W8PXYYGBX*MTY0NTU4Mzk3Ni41LjEuMTY0NTU4NDg2NS4xMw..&_ga=2.63539951.1945638451.1645579800-787279705.1644521918.
+
+Internal Revenue Service, Carnegie Institute Form 990 § (2019). https://pdf.guidestar.org/PDF_Images/2019/250/965/2019-250965280-202013019349300326-9.pdf?_gl=1*2tpxoz*_ga*Nzg3Mjc5NzA1LjE2NDQ1MjE5MTg.*_ga_5W8PXYYGBX*MTY0NTU4Mzk3Ni41LjEuMTY0NTU4NDgzMC40OA..&_ga=2.102294209.1945638451.1645579800-787279705.1644521918.
+
+Internal Revenue Service, Highmark Health Form 990 § (2019). https://pdf.guidestar.org/PDF_Images/2019/453/674/2019-453674900-202043189349302404-9.pdf?_gl=1*h5tlkk*_ga*Nzg3Mjc5NzA1LjE2NDQ1MjE5MTg.*_ga_5W8PXYYGBX*MTY0NTU4Mzk3Ni41LjEuMTY0NTU4NTUwNy4xMg..&_ga=2.64537711.1945638451.1645579800-787279705.1644521918.
+
+Internal Revenue Service, The Art Institute of Chicago Form 990 § (2019).https://pdf.guidestar.org/PDF_Images/2019/362/167/2019-362167725-17283213-9.pdf?_gl=1*8h67j9*_ga*Nzg3Mjc5NzA1LjE2NDQ1MjE5MTg.*_ga_5W8PXYYGBX*MTY0NTU4Mzk3Ni41LjEuMTY0NTU4NDAwNi4zMA..&_ga=2.67676241.1945638451.1645579800-787279705.1644521918.
+
+Internal Revenue Service, The Metropolitan Museum of Art Form 990 § (2019). https://pdf.guidestar.org/PDF_Images/2019/131/624/2019-131624086-17351246-9.pdf?_gl=1*pp8jk9*_ga*Nzg3Mjc5NzA1LjE2NDQ1MjE5MTg.*_ga_5W8PXYYGBX*MTY0NTU3OTc5Ny40LjEuMTY0NTU3OTg2Ni42MA..&_ga=2.164153215.1945638451.1645579800-787279705.1644521918.
+
 “Living Wage Calculation for Pittsburgh, PA.” Living Wage Calculator. Accessed March 2, 2022. https://livingwage.mit.edu/metros/38300. 
 
 “PAFIA.” Pennsylvania Film Industry Association. Accessed March 2, 2022. https://www.pafia.org/PA-FILM-INDUSTRY-INCENTIVE#:~:text=What%20incentives%20does%20the%20PA%20Film%20Industry%20Incentive,everything%20in%20between%20%28including%20hiring%20and%20filming%20locally%29. 
