@@ -9,9 +9,13 @@ Overall, this project has changed significantly from the start. It is interestin
 
 A look at one of my sketches from Part I:
 
+![Part one image](/conflict2.png)
 
 What that became in Part III:
 
+![Part three image](/part3.png)
+
+While I was limited in my data in creating exactly what I wanted for part 1, I still was able to communicate my points. In this instances I was also able to visualize the average top 10 salaries and put that into a graph to compare with the top salary and worker pay. 
 
 In Part II, I built out these sketches into draft visualizations, using Flourish to visualize data.  I utilized data from the Arts + All Museums Salary Transparency 2019 spreadsheet to pinpoint variances in executive pay to worker pay and individually profile individual instances of inequitable wages. 
 
