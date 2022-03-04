@@ -26,6 +26,7 @@ Check out a Test assignment I tried out in Tableau. This was an opportunity to e
 
 ### Final Project:
 In my final project, I created a visual story in Shorthand. Check out the following links to see how the idea started, changed over time, and became the final project. I walk through the final Shorthand project in much more detail in Part III, but it is also available to check out [here.](https://carnegiemellon.shorthandstories.com/the-arts-world-has-a-money-issue/index.html#group-section-RqTdLl3xHP)
+
 The start of my final project can be found here: [Final Project Part I](/FinalProjectKatieWinter.md)
 
 The second part of my final proejct can be found here: [Final Project Part II](/FinalProjectPart2.md)
