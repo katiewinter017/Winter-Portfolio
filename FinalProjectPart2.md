@@ -55,5 +55,5 @@ Interview 3: Male, late 20's, part of cohort, 8-10 years arts experience
 
 Thus, moving forward, I plan to implement all of the listed changes above to clear up my story and data. I beleive all of these changes will not only make the story clearer, but strengthen my statement. In addition to making these changes, I will be working on turning the outline into a cited narrative and ensuring their is a consistent color scheme throughouth. 
 
-
+Check out [Part III](FinalProjectPartThree.md) to see the final product!
 
