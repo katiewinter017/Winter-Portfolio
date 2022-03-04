@@ -1,4 +1,3 @@
-Link back to main Portfolio:
 [Link back to the Main Portfolio page](README.md)
 
 # Part 1
@@ -44,3 +43,4 @@ For the final project I will be using Shorthand. I decided to go with Shorthand 
 
 Additionally, while there are may be other options to use, I am looking to try out something new. I have not ever used Shorthand before, so I think it will be a beneficial expereince to see how the platform works. Moving forward then, I will have experience with Shorthand incase I ever need to use it again in my career. 
 
+Head over to [Part II](FinalProjectPart2.md) to see what the next steps were!
