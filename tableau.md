@@ -1,4 +1,4 @@
-[Head back to the Main Portfolio page](readme.md)
+[Link back to the Main Portfolio page](README.md)
 
 # New Data Vis
 
