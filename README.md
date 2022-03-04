@@ -1,5 +1,5 @@
 # Winter-Portfolio
-This is my public portfolio for the course, Telling Stories with Data at CMU
+This is my public portfolio for the course, Telling Stories with Data, at Carnegie Mellon University.
 
 # About me
 Hi! My name is Katie. I use she/her/hers pronouns. I am a second year student in the Masters of Arts Management graduate program at Heinz College at Carnegie Mellon University. I am a Pittsburgher born and raised! I went to undergrad at Carlow University (the really small college next to Pitt!) where I received two bachelors degrees, one in Accounting and the other in Art. I have a background in Public Accounting and gallery management, and my love for Pittsburgh's vibrant arts community led me to pursue my graduate degree in Arts Management. With my background, I am interested in the ways arts organizations can leverage financial management, technology, and community partnerships to increase access to more community members.  
